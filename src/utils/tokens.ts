@@ -102,9 +102,17 @@ export const TOKENS: Tokens = {
   BTC: {
     symbol: 'BTC',
     name: 'Wrapped Bitcoin',
-    mintAddress: '9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E',
+    mintAddress: '1C2EYVrwmoXAGbiKirFFBeDFDYUBHPhDeg9trhibTND',
+    decimals: 9,
+    referrer: '5JC2kckdehvq8k2JMZE9gJzdiyhGyg5CH4HN8gxwWSyo',
+    tags: ['meme-token']
+  },
+   NRA: {
+    symbol: 'NRA',
+    name: 'NORA',
+    mintAddress: '2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk',
     decimals: 6,
-    referrer: 'GZpS8cY8Nt8HuqxzJh6PXTdSxc38vFUjBmi7eEUkkQtG',
+    referrer: 'CXPTcSxxh4AT38gtv3SPbLS7oZVgXzLbMb83o4ziXjjN',
     tags: ['raydium']
   },
   ETH: {
